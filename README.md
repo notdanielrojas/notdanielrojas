@@ -4,7 +4,7 @@ I am a Full Stack Developer, DevOps and Audiovisual Producer with 9 years of exp
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notdanielrojas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notdanielrojas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:notdanielrojas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notdanielrojas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:notdanielrojas@gmail.com)
 
 # 💻 Tech Stack:
 
